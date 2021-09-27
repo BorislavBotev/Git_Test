@@ -1,5 +1,2 @@
-Hello
-bye
-hello
-bye
-bye
+Hello and bye
+
